@@ -69,7 +69,7 @@
         "output": "math.exp(2)のようにするとネイピア数eの2乗になります。",
         "category": "プログラミング"
     },
-  　{
+    {
         "input": "powとは？",
         "output": "javascriptのmath関数で巾乗を表します。",
         "category": "プログラミング"
