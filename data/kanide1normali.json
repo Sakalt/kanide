@@ -65,6 +65,21 @@
         "category": "プログラミング"
     },
     {
+        "input": "assemblyとは？",
+        "output": "アセンブリ言語と呼ばれるものです。",
+        "category": "プログラミング"
+    },
+    {
+        "input": "helloworldとは？",
+        "output": "最初にプログラミングを勉強するときによく出てくるものです。",
+        "category": "プログラミング"
+    },
+    {
+        "input": "pythonの基礎を教えてくれますか？",
+        "output": "では始めましょう。まずhelloworldをやってみましょう。printでできます。()の中に文章を入れます。ダブルクオートではさみhello worldと。",
+        "category": "プログラミング"
+    },
+    {
         "input": "expとは？",
         "output": "math.exp(2)のようにするとネイピア数eの2乗になります。",
         "category": "プログラミング"
