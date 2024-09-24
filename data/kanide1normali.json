@@ -263,30 +263,5 @@
         "input": "最近のエンタメで話題になっていることは？",
         "output": "新しいアニメ映画が大ヒットし、国内外で注目されています。",
         "category": "ニュース"
-    },
-    {
-        "input": "PHPとは何ですか？",
-        "output": "PHPはサーバーサイドのスクリプト言語で、主にWeb開発に使用されます。",
-        "category": "PHP"
-    },
-    {
-        "input": "PHPで変数を宣言する方法は？",
-        "output": "$variable_name = 'value';のように、$記号を使って変数を宣言します。",
-        "category": "PHP"
-    },
-    {
-        "input": "PHPで配列を作成するには？",
-        "output": "$array = array('value1', 'value2');または$array = ['value1', 'value2'];のようにします。",
-        "category": "PHP"
-    },
-    {
-        "input": "PHPの関数とは？",
-        "output": "PHPの関数は、特定のタスクを実行するための再利用可能なコードのブロックです。",
-        "category": "PHP"
-    },
-    {
-        "input": "PHPでデータベースに接続するにはどうしますか？",
-        "output": "mysqli_connect関数を使用してデータベースに接続します。例: $conn = mysqli_connect('localhost', 'username', 'password', 'database');",
-        "category": "PHP"
     }
 ]
